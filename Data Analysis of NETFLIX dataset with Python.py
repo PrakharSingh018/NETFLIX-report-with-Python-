@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
 
 
 import pandas as pd
@@ -88,7 +87,7 @@ df[(df['Category']=='TV Show')&(df['Type']=="Kids' TV")]
 df[(df['Category']=='Movie')&(df['Type']=='Dramas')|(df['Category']=='TV Show')&(df['Type']=="Kids' TV")]
 
 
-# In[ ]:
+
 
 
 
